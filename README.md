@@ -17,7 +17,7 @@
      - Chấm điểm theo một list answer_key có sẵn
      - Thống kê tính toán các thông kê như: Mean (điểm trung bình của 1 lớp đó), Range, Câu hỏi bị bỏ qua nhiều nhất, ...
      - Tạo ra một file .txt lưu điểm cho từng học sinh 
-     ![image](https://user-images.githubusercontent.com/68512088/188257674-0a0fd993-d291-4068-91d2-144d547eca9c.png)
+![image](https://user-images.githubusercontent.com/68512088/188257674-0a0fd993-d291-4068-91d2-144d547eca9c.png)
 
 
  
