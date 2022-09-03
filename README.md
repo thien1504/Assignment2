@@ -16,7 +16,8 @@
  Chương trình thực hiện: 
      - Chấm điểm theo một list answer_key có sẵn
      - Thống kê tính toán các thông kê như: Mean (điểm trung bình của 1 lớp đó), Range, Câu hỏi bị bỏ qua nhiều nhất, ...
-     - Tạo ra một file .txt lưu điểm cho từng học sinh ![image](https://user-images.githubusercontent.com/68512088/188257653-90a69f93-03a3-46eb-9c91-36a7a6b123cc.png)
+     - Tạo ra một file .txt lưu điểm cho từng học sinh 
+      ![image](https://user-images.githubusercontent.com/68512088/188257653-90a69f93-03a3-46eb-9c91-36a7a6b123cc.png)
 
  
 
