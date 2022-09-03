@@ -11,7 +11,7 @@
  ![image](https://user-images.githubusercontent.com/68512088/188257430-b48777eb-3939-4f3e-9e4b-659b11abf905.png)
  
 ## Output
- Chương trình sẽ xử lí loại bỏ các học sinh có mã học sinh không hợp lệ, có dư hoặc thiếu câu trả lời
+ Chương trình sẽ xử lí loại bỏ các học sinh có mã học sinh không hợp lệ, có dư hoặc thiếu câu trả lời\n
  Người dùng cần tạo file câu trả lời trước khi chạy chương trình, khi nhập tên file không hợp lệ chương trình sẽ báo lỗi
  Chương trình thực hiện: 
      - Chấm điểm theo một list answer_key có sẵn
@@ -19,7 +19,14 @@
      - Tạo ra một file .txt lưu điểm cho từng học sinh 
 
 ![image](https://user-images.githubusercontent.com/68512088/188257674-0a0fd993-d291-4068-91d2-144d547eca9c.png)
+Ngoài ra chương trình sẽ tạo file .txt valid_data lưu các data đạt chuẩn để thực hiện chấm điểm
 
+## Usage
+ Chạy cmd trong thư mục: 
+  Nhập: python lastname_firstname_grade_the_exams.py
+  => Enter class to grade: => Nhập tên file cần chấm điểm
+  
+![image](https://user-images.githubusercontent.com/68512088/188257952-a5560e43-4219-4b6f-943a-924a0986805d.png)
 
  
 
