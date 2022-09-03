@@ -9,6 +9,16 @@
  Mã học sinh được lưu theo format gồm 9 kí tự (Kí tự N viết liền theo sau đó là 8 chữ số) VD: N12345678 
  Câu trả lời gồm 25 câu với các đáp án có thể chọn là : A,B,C,D và rỗng (không chọn).
  ![image](https://user-images.githubusercontent.com/68512088/188257430-b48777eb-3939-4f3e-9e4b-659b11abf905.png)
+ 
+## Output
+ Chương trình sẽ xử lí loại bỏ các học sinh có mã học sinh không hợp lệ, có dư hoặc thiếu câu trả lời
+ Người dùng cần tạo file câu trả lời trước khi chạy chương trình, khi nhập tên file không hợp lệ chương trình sẽ báo lỗi
+ Chương trình thực hiện: 
+     - Chấm điểm theo một list answer_key có sẵn
+     - Thống kê tính toán các thông kê như: Mean (điểm trung bình của 1 lớp đó), Range, Câu hỏi bị bỏ qua nhiều nhất, ...
+     - Tạo ra một file .txt lưu điểm cho từng học sinh ![image](https://user-images.githubusercontent.com/68512088/188257653-90a69f93-03a3-46eb-9c91-36a7a6b123cc.png)
+
+ 
 
  
  
