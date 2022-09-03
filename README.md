@@ -26,7 +26,8 @@ Ngoài ra chương trình sẽ tạo file .txt valid_data lưu các data đạt 
   Nhập: python lastname_firstname_grade_the_exams.py
   => Enter class to grade: => Nhập tên file cần chấm điểm
   
-![image](https://user-images.githubusercontent.com/68512088/188257952-a5560e43-4219-4b6f-943a-924a0986805d.png)
+![image](https://user-images.githubusercontent.com/68512088/188258112-3d36785e-e6ed-48a3-9747-02ddc050271d.png)
+
 
  
 
