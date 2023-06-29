@@ -1,6 +1,6 @@
 # Assignment2
 
- Tên dự án: Tính toán và phân tích điểm thi (Test Grade Calculator).<br>
+ Tên bài tập: Tính toán và phân tích điểm thi (Test Grade Calculator).<br>
  Chương trình được viết bởi ngôn ngữ Python.<br>
  Chương trình được viết để tính toán điểm thi cho nhiều lớp với sĩ số hàng ngàn học sinh.
  
