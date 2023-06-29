@@ -11,7 +11,7 @@
  ![image](https://user-images.githubusercontent.com/68512088/188257430-b48777eb-3939-4f3e-9e4b-659b11abf905.png)
  
 ## Output
- Chương trình sẽ xử lí loại bỏ các học sinh có mã học sinh không hợp lệ, có dư hoặc thiếu câu trả lời\n
+ Chương trình sẽ xử lí loại bỏ các học sinh có mã học sinh không hợp lệ, có dư hoặc thiếu câu trả lời.
  Người dùng cần tạo file câu trả lời trước khi chạy chương trình, khi nhập tên file không hợp lệ chương trình sẽ báo lỗi
  Chương trình thực hiện: 
      - Chấm điểm theo một list answer_key có sẵn
